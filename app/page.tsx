@@ -1,4 +1,4 @@
-"use client";
+e"use client";
 
 import { useRef } from "react";
 import { useChat } from "ai/react";
@@ -14,9 +14,9 @@ import Textarea from "react-textarea-autosize";
 import Image from "next/image";
 
 const examples = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
+  "Here is a query example 1",
+  "Here is a query example",
+  "Here is a query example",
 ];
 
 export default function Chat() {
@@ -83,7 +83,7 @@ export default function Chat() {
               className="h-20 w-20"
             />
             <h1 className="text-lg font-semibold text-black">
-              Hi, I'm a fine tuned LLM.
+              Hi, I'm Chu's test LLM.
             </h1>
             <p className="text-gray-500">
               I'm part of a series of computational experiments taught by{" "}
