@@ -15,8 +15,8 @@ import Image from "next/image";
 
 const examples = [
   "Here is a query example 1",
-  "Here is a query example",
-  "Here is a query example",
+  "Here is a query example 2",
+  "Here is a query example 3",
 ];
 
 export default function Chat() {
