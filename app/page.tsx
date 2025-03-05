@@ -1,4 +1,4 @@
-e"use client";
+"use client";
 
 import { useRef } from "react";
 import { useChat } from "ai/react";
